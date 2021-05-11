@@ -1,0 +1,10 @@
+git config --global user.name "fsevillam26"
+git config --global user.mail "frasevillam26@gmail.com"
+
+git init 
+git add .
+git commit -m "descipcion del cambio" se da enter
+git remote add origin https......... en el gitbucket dar en clonar para tener el enlace
+git push -u origin master 
+
+
